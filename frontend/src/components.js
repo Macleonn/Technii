@@ -54,7 +54,7 @@ const Header = () => {
         
         <div className="flex items-center space-x-4">
           <div className="w-8 h-8 bg-red-600 rounded-full flex items-center justify-center">
-            <span className="text-white text-sm font-bold">N</span>
+            <span className="text-white text-sm font-bold">M</span>
           </div>
         </div>
       </div>
