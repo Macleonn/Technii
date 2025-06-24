@@ -1,17 +1,17 @@
-/* Netflix Clone App Styles */
+/* Macflix Clone App Styles */
 .App {
     background-color: #000000;
     color: #ffffff;
     min-height: 100vh;
 }
 
-/* Netflix brand colors */
+/* Macflix brand colors */
 :root {
-    --netflix-red: #E50914;
-    --netflix-black: #000000;
-    --netflix-dark-gray: #141414;
-    --netflix-gray: #737373;
-    --netflix-light-gray: #f5f5f5;
+    --macflix-red: #E50914;
+    --macflix-black: #000000;
+    --macflix-dark-gray: #141414;
+    --macflix-gray: #737373;
+    --macflix-light-gray: #f5f5f5;
 }
 
 /* Smooth transitions for all interactive elements */
