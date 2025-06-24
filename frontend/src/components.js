@@ -36,7 +36,7 @@ const Header = () => {
             whileHover={{ scale: 1.1 }}
             className="text-red-600 text-2xl md:text-3xl font-bold"
           >
-            NETFLIX
+            MACFLIX
           </motion.div>
           <nav className="hidden md:flex space-x-6">
             {['Home', 'TV Shows', 'Movies', 'New & Popular', 'My List'].map((item) => (
